@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	AEC	AZ6Zc-VoitnFBIZc9m64UV_nvolbb-kbT-paQabZwtk6VnGjUeWaWXOqfvE
+www.google.com	TRUE	/	FALSE	1999999999	SameSite	lax
+.google.com	TRUE	/	FALSE	1999999999	NID	520=CXVhvnqyxuE-JAsibGc8cUlPhs1c3DICCWK7-YqFV87CNduQuaf11wodbQbJrCxrByTJIc5Hu90xeIoje5qoIAZ0onZrl2ZptzHvIsBqMP1uGGnqM4AmjNFjYJLICjuep5avIhMLZGa7hRIlFoJoRvK4Er7pm6W0WgQpSKSM2Syoeb5mvn--AYTsypWDI4r3ars
+mamiguide.com	TRUE	/	FALSE	1999999999	kc_us_click_1748	194a
+mamiguide.com	TRUE	/	FALSE	1999999999	kc_us_visitor	675ef12cb1814
+line.me	TRUE	/	FALSE	1999999999	_ldbrbid	tr__k1y/XGde8S4x/xLL78JfAg==
+tr.line.me	TRUE	/	FALSE	1999999999	SameSite	None
+mamiguide.com	TRUE	/	FALSE	1999999999	kc_us_click_1749	rzyg
+mamiguide.com	TRUE	/	FALSE	1999999999	kc_us_click_1750	qou2
+mamiguide.com	TRUE	/	FALSE	1999999999	kc_us_click_1752	xer2
+mamiguide.com	TRUE	/	FALSE	1999999999	kc_us_click_1751	2exx
+mamiguide.com	TRUE	/	FALSE	1999999999	kc_us_click_1753	6mvr
+
